@@ -16,7 +16,7 @@ This is a boilerplate including:
 ## webpack 
 
 - uses index.template.html to dynamically create an appropriate index page in the build folder
-- already comes with appropriate laoders for sass and bootstrap 4 import 
+- already comes with appropriate loaders for sass and Bootstrap 4 import 
 
 ## installation 
 
